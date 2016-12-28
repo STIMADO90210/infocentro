@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn-amarillo{
+    background:yellow; 
+    }
+.btn-marron{
+    background:brown; 
+    
+}
+
+.espacio{
+    margin-left: 35px;
+    margin-right: 35px;
+ 
+}
+
+.color-gris{
+	background:#CCC;
+	}
+        .color-negro{
+	background:#000000;
+	}
+.color-amarillo{
+	background:#fac51c;
+	}        
+.color-celeste{
+	background:#dff0d8;
+	}        
+        
+.color-grisclaro{
+	background:violet;
+	}        
+.color-rojo{
+	background:red;
+	}	
+	
+.color-blanco{
+	background:#FFF;
+	}
+	
+.color-azul{
+	background:#00F;
+	}		
+.margenes{
+	padding-left:5px;
+	padding-right:5px;
+	
+	}	
+	
+.letra-amarilla{
+	color:#FF0;
+	
+	}
+        
+ .letra-azul{
+	color:blue;
+	
+	}
+        
+        .letra-blanca{
+	color:#FFF;
+	
+	}
+        
+         .letra-negra{
+	color:#000000;
+	
+	}
+        .borde-redondo{
+            border-radius:10px;
+            
+        }
+        
+
